@@ -14,6 +14,7 @@ gem 'bootstrap-sass', '~> 3.3.6'
 #rails_12factor for speeding up load times and providing useful error logs
 gem 'rails_12factor', group: :production
 gem 'simple_form'
+gem 'devise'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
